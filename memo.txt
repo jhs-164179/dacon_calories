@@ -1,1 +1,2 @@
-pred_blend 결과 테스트 데이터 대상으로 수정해서 재제출
+전처리 다시..
+https://preservsun.tistory.com/entry/Pycaret-%EC%84%A4%EC%B9%98-%EC%BD%94%EB%93%9C-%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-AutoML-%EA%B5%AC%ED%98%84-%EC%98%88%EC%A0%9C
